@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Download Result</title>
+    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+</head>
+<body class="bg-gray-100 min-h-screen flex items-center justify-center">
+    <div class="bg-white p-8 rounded-lg shadow-md max-w-md w-full">
+        <h1 class="text-4xl font-extrabold mb-6 text-indigo-700 text-center">Download Result</h1>
+        <p class="mb-4 text-center">Result has been generated. Click the link below to download.</p>
+        <div class="flex justify-center mb-4">
+            <a href="/download/{{ filename }}" class="bg-indigo-500 text-white py-2 px-4 rounded-md hover:bg-indigo-600 transition duration-300">Download Result</a>
+        </div>
+    </div>
+</body>
+</html>

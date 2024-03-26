@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cheque Processing App</title>
+    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+</head>
+<body class="bg-gray-100 min-h-screen flex items-center justify-center">
+    <div class="bg-white p-8 rounded-lg shadow-md max-w-md w-full">
+        <h1 class="text-4xl font-extrabold mb-6 text-indigo-700 text-center"> Cheque Magnet </h1>
+        <form action="{{ url_for('upload_folder_path_or_files') }}" method="post" enctype="multipart/form-data">
+            <div class="mb-4">
+                <label for="folder_path" class="block text-sm font-medium text-gray-700">Upload Folder:</label>
+                <input type="file" id="folder_path" name="files" multiple directory webkitdirectory class="mt-1 p-2 border rounded-md w-full">
+            </div>
+            <button type="submit" class="w-full bg-indigo-500 text-white py-2 rounded-md hover:bg-indigo-600 transition duration-300">Process Images</button>
+        </form>
+        {% with messages = get_flashed_messages() %}
+            {% if messages %}
+                <ul class="mt-4">
+                    {% for message in messages %}
+                        <li class="text-green-500">{{ message }}</li>
+                    {% endfor %}
+                </ul>
+            {% endif %}
+        {% endwith %}
+    </div>
+</body>
+</html>
