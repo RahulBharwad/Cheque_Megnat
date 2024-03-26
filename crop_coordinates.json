@@ -1,0 +1,265 @@
+{
+    "data": [
+        {
+            "template_name": "Abhyudaya",
+            "coordinates": [[500, 180, 770, 220], [500, 210, 770, 240]]
+        },
+        {
+            "template_name": "AGVB",
+            "coordinates" :[500, 260, 800, 290]
+        },
+        {
+            "template_name": "AU Small Finance",
+            "coordinates": [[600, 270, 780, 295], [500, 170, 800, 210]]
+        },
+        {
+            "template_name": "Axis",
+            "coordinates": [[500, 180, 775, 215], [500, 250, 775, 287]]
+        },
+        {
+            "template_name": "Bandhan",
+            "coordinates":[[500, 190, 800, 230], [500, 260, 800, 285]]
+        },
+        {
+            "template_name": "Bank of Maharashtra",
+            "coordinates": [[500, 180, 770, 220], [500, 255, 770, 280]]
+        },
+        {
+            "template_name": "BOB",
+            "coordinates": [[480, 190,800, 220], [480, 240, 800, 285], [480, 210, 800, 240],[480, 270, 800, 300],[480, 190, 800, 220]]
+        },
+        {
+            "template_name": "BOI",
+            "coordinates": [ [500, 200, 790, 245],[365, 205, 770, 245],[500, 230, 790, 270], [575, 200, 790, 225], [550,260,790,290]]
+        },
+        {
+            "template_name": "Canara",
+            "coordinates": [[500, 170, 790, 200], [500, 250, 790, 275],[500, 230, 790, 260], [500, 270, 790, 290]]
+        },
+        {
+            "template_name": "CBI",
+            "coordinates": [[500, 180, 780, 210],[500, 240, 780, 275], [500, 270, 780, 295]]
+        },
+        {
+            "template_name": "CITI",
+            "coordinates": [[500, 205, 800, 225]]
+        },
+        {
+            "template_name":"City Union",
+            "coordinates":[[500, 180, 790, 220], [500, 260, 790, 290]]
+        },
+        {
+            "template_name": "Cosmos",
+            "coordinates": [[500, 165, 790, 210]]
+        },
+        {
+            "template_name": "CSB",
+            "coordinates":[[500, 180, 790, 210],[450, 270, 800, 290]]
+        },
+        {
+            "template_name": "DCB",
+            "coordinates":[[450, 190, 800, 220]]
+        },
+        {
+            "template_name": "Dhanlaxmi",
+            "coordinates":[[450, 180, 800, 210]]
+        },
+        {
+            "template_name": "DMK",
+            "coordinates":[500, 180, 790, 220]
+        },
+        {
+            "template_name": "equitas small finance",
+            "coordinates":[]
+        },
+        {
+            "template_name": "ESAF",
+            "coordinates": [400, 180, 790, 205]
+        },
+        {
+            "template_name":"Federal",
+            "coordinates": [[500, 180, 800, 220], [500, 250, 800, 280]]
+        },
+        {
+            "template_name": "ICICI",
+            "coordinates": [[450, 180, 800, 215],[450, 235, 800, 285],[450, 270, 800, 295]]
+        },
+        {
+            "template_name": "IDBI",
+            "coordinates":[[500, 180, 790, 220],[500, 260, 790, 290]]
+        },
+        {
+            "template_name": "IDFC First",
+            "coordinates": [[500, 250, 800, 280]]
+        },
+        {
+            "template_name": "Indian Overseas",
+            "coordinates": [[360, 180, 770, 205],[360, 235, 770, 260]]
+        },
+        {
+            "template_name": "Indian",
+            "coordinates": [[500, 200, 800, 230], [500, 250, 800, 280], [490, 170, 780, 220]]
+        },
+        {
+            "template_name": "IndusInd",
+            "coordinates": [[500, 265, 780, 290]]
+        },
+        {
+            "template_name": "J & K",
+            "coordinates": [[500, 180, 770, 220],[500, 245, 770, 275],[480, 190, 770, 235]]
+        },
+        {
+            "template_name": "Kalupur",
+            "coordinates": [[500, 260, 790, 290]]
+        },
+        {
+            "template_name": "Karnataka",
+            "coordinates":[500, 180, 790, 220]
+        },
+        {
+            "template_name": "Karur Vysya",
+            "coordinates":[[480, 180, 800, 220]]
+        },
+        {
+            "template_name": "Kotak Mahindra",
+            "coordinates": [[500, 170, 770, 215],[500, 245, 770, 285]]
+        },
+        {
+            "template_name": "PNB",
+            "coordinates": [[500, 175, 770, 210], [500, 250, 785, 295], [500, 200, 785, 235]]
+        },
+        {
+            "template_name": "Post Office Saving",
+            "coordinates": []
+        },
+        {
+            "template_name": "Punjab and Sind Bank",
+            "coordinates": [[500, 240, 770, 265], [500, 185, 770, 210]]
+        },
+        {
+            "template_name": "RBL",
+            "coordinates": [[450, 180, 800, 210], [450, 160, 790, 200]]
+        },
+        {
+            "template_name": "Saraswat",
+            "coordinates": [[500, 250, 800, 285]]
+        },
+        {
+            "template_name": "SBI",
+            "coordinates": [[500, 250, 800, 285], [500, 260, 790, 285], [500, 230, 790, 260]]
+        },
+        {
+            "template_name": "South Indian",
+            "coordinates":[[500, 200, 780, 230], [500, 165, 780, 200]]
+        },
+        {
+            "template_name": "UCO",
+            "coordinates": [[500, 255, 800, 280], [500, 170, 800, 190]]
+        },
+        {
+            "template_name": "Union",
+            "coordinates": [[500, 180, 770, 210],[500, 260, 770, 280],[500, 160, 770, 190]]
+        },
+        {
+            "template_name": "Yes",
+            "coordinates": [[590, 190, 800, 240]]
+        },
+        {
+            "template_name": "Rampur zila sahkari",
+            "coordinates": [[540, 180, 775, 215]]
+        },
+        {
+            "template_name": "TMB",
+            "coordinates": [[500, 195, 770, 220]]
+        },
+        {
+            "template_name": "The Grain Merchants co-operative",
+            "coordinates" : [560, 180, 770, 220]
+        },
+        {
+            "template_name": "Karnataka Gramin",
+            "coordinates": [550, 260, 790, 290]
+        },
+        {
+            "template_name": "Malvlya Urban Co-operative",
+            "coordinates":[550, 180, 790, 210]
+        },
+        {
+            "template_name": "Sterling urban co-op",
+            "coordinates": [550, 180, 790, 210]
+        },
+        {
+            "template_name": "Kota Nagrik Sahakari",
+            "coordinates":[580,180,790,220]
+        },
+        {
+            "template_name": "The Bhatakal Urban Co-op",
+            "coordinates":[580, 180, 790, 220]
+        },
+        {
+            "template_name": "The kaithal central co-op",
+            "coordinates":[600, 225, 800, 290]
+        },
+        {
+            "template_name": "The hukkeri urban co-op",
+            "coordinates":[470, 180, 800, 230]
+        },
+        {
+            "template_name": "the sutex co-op",
+            "coordinates": [630, 230, 800, 280]
+        },
+        {
+            "template_name": "Akhand anand co-op",
+            "coordinates": [450, 170, 780, 210]
+        },
+        {
+            "template_name": "Surat national co-op",
+            "coordinates": [450, 170, 780, 210]
+        },
+        {
+            "template_name": "Associate co-op",
+            "coordinates":[450, 170, 780, 220]
+        },
+        {
+            "template_name": "The surat districk co-op",
+            "coordinates" :[550, 170, 780, 220]
+        },
+        {
+            "template_name": "Prime co-op",
+            "coordinates" : [450, 170, 780, 220]
+        },
+        {
+            "template_name": "Vyavsayik sahakari",
+            "coordinates" : [550, 250, 780, 300]
+        },
+        {
+            "template_name" : "The shri kannikaparameswari co-op",
+            "coordinates" : [550, 250, 790, 280]
+        },
+        {
+            "template_name": "Shree bhavanagr nagrik sahakari",
+            "coordinates" : [450, 180, 780, 230]
+        },
+        {
+            "template_name" : "The rajula nagrik sahakari",
+            "coordinates" : [480, 260, 780, 290]
+        },
+        {
+            "template_name": "The mehsana dist central co-op",
+            "coordinates" : [480, 235, 780, 285]
+        },
+        {
+            "template_name": "Rajasthan marudhara gramin",
+            "coordinates": [480, 235, 780, 285]
+        },
+        {
+            "template_name": "The meghalaya co-op apex",
+            "coordinates":[550, 240, 780, 285]
+        },
+        {
+            "template_name": "Chattisgarh rajya gramin",
+            "coordinates":[550, 240, 780, 285]
+        }
+
+    ]
+}
