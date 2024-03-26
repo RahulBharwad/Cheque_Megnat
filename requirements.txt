@@ -1,0 +1,11 @@
+Flask
+opencv-python
+numpy
+Pillow
+gunicorn
+requests
+pytesseract
+Flask-Session
+tesseract
+joblib
+pandas
